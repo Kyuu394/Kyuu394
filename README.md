@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
-**Kyuu394/Kyuu394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kauã Sousa
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+00001104071526sp@al.educacao.sp.gov.br
+
+@keith_elle_
+
+
+
+![stray-kids-skz](https://github.com/user-attachments/assets/31e866b4-5449-44c1-86f1-214196d8c932)
